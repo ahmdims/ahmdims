@@ -1,6 +1,6 @@
 # Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+Welcome+to+my+GitHub+page!;I+am+Dimas;I+am+a+fullstack+developer">
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&pause=1000&vCenter=true&random=false&width=435&lines=Hi%2C+Welcome+to+my+GitHub+page!;I+am+Dimas;I+am+a+fullstack+developer">
 
 # 💫 About Me:
 
