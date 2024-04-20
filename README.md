@@ -16,7 +16,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com?user=dimas551&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dimas551&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimas551&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
