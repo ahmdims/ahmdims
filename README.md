@@ -45,7 +45,7 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=dimas551&label=Profile%20views&color=0e75b6&style=plastic" alt="profile view">
+![](https://komarev.com/ghpvc/?username=dimas551&label=Profile%20views&color=0e75b6&color=blueviolet)
 
 ## 💰 You can help me by Donating
 
