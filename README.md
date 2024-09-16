@@ -18,8 +18,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dimas551&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimas551&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimas551&theme=tokyonight&hide_border=false" width="100%" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas551&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" />
 
 ## 🏆 GitHub Trophies
 
