@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdims) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dim.as552)
+![](https://komarev.com/ghpvc/?username=dimas551&label=Profile%20Views&color=0e75b6&color=blueviolet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] (https://instagram.com/ahmdims) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dim.as552)
 
 # 💻 Tech Stack:
 
@@ -44,8 +44,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=dimas551&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=dimas551&label=Profile%20views&color=0e75b6&color=blueviolet)
 
 ## 💰 You can help me by Donating
 
