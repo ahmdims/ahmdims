@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-![](https://komarev.com/ghpvc/?username=dimas551&label=Profile%20Views&color=0e75b6&color=blueviolet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] (https://instagram.com/ahmdims) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dim.as552)
+![](https://komarev.com/ghpvc/?username=dimas551&label=Profile%20Views&color=blueviolet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdims) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dim.as552)
 
 # 💻 Tech Stack:
 
