@@ -6,11 +6,11 @@
 
 # 💫 About Me:
 
-👨‍💻 All of my projects are available at https://github.com/dimas551<br>💬 Ask me about Web Development<br>📫 How to reach me ahmaddimas1945@gmail.com
+👨‍💻 All of my projects are available at https://github.com/ahmdims<br>💬 Ask me about Web Development<br>📫 How to reach me ahmaddimas1945@gmail.com
 
 ## 🌐 Socials:
 
-![](https://komarev.com/ghpvc/?username=dimas551&label=Profile%20Views&color=blueviolet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdims) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dim.as552)
+![](https://komarev.com/ghpvc/?username=ahmdims&label=Profile%20Views&color=blueviolet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdims) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dim.as552)
 
 # 💻 Tech Stack:
 
@@ -36,9 +36,9 @@
 
 # 📊 GitHub Stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimas551&theme=tokyonight&show_icons=true&locale=en&layout=compact"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimas551&theme=tokyonight&show_icons=true&locale=en"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmdims&theme=tokyonight&show_icons=true&locale=en&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdims&theme=tokyonight&show_icons=true&locale=en"/>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=dimas551&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahmdims&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
