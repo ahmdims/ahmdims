@@ -1,4 +1,4 @@
-![gif](https://github.com/user-attachments/assets/b20d766b-d61e-4a1b-89df-e81406430791)
+![gif](assets/hero.gif)
 
 # Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
