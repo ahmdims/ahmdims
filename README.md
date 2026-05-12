@@ -1,44 +1,46 @@
 ![gif](assets/hero.gif)
 
-# Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<h1 align="center">Hi <img src="assets/hi.gif" width="30">, I'm Ahmad Dimas</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&pause=1000&vCenter=true&random=false&width=435&lines=Hi%2C+Welcome+to+my+GitHub+page!;I+am+Dimas;I+am+a+fullstack+developer">
+<h3 align="center">Web & Graphic Designer | UI/UX Strategist | Design & Engineering Enthusiast</h3>
 
-# 💫 About Me:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmdims&label=Profile%20Views&color=blueviolet" alt="ahmdims" />
+</p>
 
-👨‍💻 All of my projects are available at https://github.com/ahmdims<br>💬 Ask me about Web Development<br>📫 How to reach me ahmaddimas1945@gmail.com
+---
 
-## 🌐 Socials:
+### 💫 About Me
+<p>👨‍💻 All of my projects are available at <a href="https://github.com/ahmdims" target="_blank">https://github.com/ahmdims</a><br>
+💬 Ask me about Web Development<br>
+📫 How to reach me: <a href="mailto:ahmaddimas1945@gmail.com">ahmaddimas1945@gmail.com</a></p>
 
-![](https://komarev.com/ghpvc/?username=ahmdims&label=Profile%20Views&color=blueviolet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdims) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dim.as552)
+---
 
-# 💻 Tech Stack:
+### 💻 Languages and Tools
 
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/codeigniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Node](https://img.shields.io/badge/node-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-%231572B6.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![XD](https://img.shields.io/badge/xd-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/codeigniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+<img src="https://img.shields.io/badge/node-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+<img src="https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+<img src="https://img.shields.io/badge/photoshop-%231572B6.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+<img src="https://img.shields.io/badge/xd-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="XD" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 
-# 📊 GitHub Stats:
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmdims&theme=tokyonight&show_icons=true&locale=en&layout=compact"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdims&theme=tokyonight&show_icons=true&locale=en"/>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ahmdims&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+### 🤝 Connect with Me
+<a href="https://linkedin.com/in/ahmdims" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/dimsporf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
