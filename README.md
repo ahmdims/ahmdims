@@ -11,6 +11,7 @@
 ---
 
 ### 💫 About Me
+
 <p>👨‍💻 All of my projects are available at <a href="https://github.com/ahmdims" target="_blank">https://github.com/ahmdims</a><br>
 💬 Ask me about Web Development<br>
 📫 How to reach me: <a href="mailto:ahmaddimas1945@gmail.com">ahmaddimas1945@gmail.com</a></p>
@@ -19,6 +20,7 @@
 
 ### 💻 Languages and Tools
 
+<p align="left">
 <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -38,9 +40,11 @@
 <img src="https://img.shields.io/badge/xd-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="XD" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+</p>
 
 ---
 
 ### 🤝 Connect with Me
+
 <a href="https://linkedin.com/in/ahmdims" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/dimsporf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
